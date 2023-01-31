@@ -26,7 +26,7 @@ function App() {
         fontColor={"#FFFFFF"}
         loadingColor={"#C0C0C0"}
         isLoading={isLoading} 
-        delayTime={1000}
+        delayTime={3000}
       />
       {checkFetch}
     </>
